@@ -70,7 +70,7 @@
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-1D4E89?style=flat-square&logo=java&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logoColor=white)
